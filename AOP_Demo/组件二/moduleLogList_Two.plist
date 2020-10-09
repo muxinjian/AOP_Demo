@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TwoViewController</key>
+	<dict>
+		<key>UL_VCState_DidAppear_Name</key>
+		<string>ModuleTwo_VCAppear</string>
+        <key>UL_VCState_DidDisappear_Name</key>
+        <string>ModuleTwo_VCDisappear</string>
+
+	</dict>
+</dict>
+</plist>
